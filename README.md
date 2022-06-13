@@ -126,21 +126,7 @@ https://liveanevia.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.ibb.co/X8FhSJJ/Spotv2.png" group-title="Sports",True SPOTV 2 HD
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/tDQ6xFK/champions1-home-tv.png" group-title="Sports",Champions TV 1 HD
-https://www.seulangatv-online.ml/ns/vidio/champ1.m3u8
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/2ZfB6PP/champions2-home-tv.png" group-title="Sports",Champions TV 2 HD
-https://www.seulangatv-online.ml/ns/vidio/champ2.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="ext" tvg-logo="https://i.ibb.co/4Ywp0jJ/champions3-home-tv.png" group-title="Sports",Champions TV 3 HD
-https://www.seulangatv-online.ml/ns/vidio/champ3.m3u8
 -DURIANTV l CHANNEL
 
 
