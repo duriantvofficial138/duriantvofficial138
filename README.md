@@ -4,11 +4,11 @@
 
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
 
+DURIANTV l MOVIE
 
-8
-
-
-
+https://www.appcreator24.com/intra/intra.php?idioma=en&idsesion=1nrxe0k4fdmth9pwviz8cgjsuly2aqb6537o&pag=21&idapp=2082205https://fvs.io/redirector?token=K2FCVDVwanNURjk2QWxUMlNVMFdmbTBIeUk0MHlISXR6NUJDdVBYWTNQNG02bUUwbmVKRDBRSVlWTVRueTdQNHBFM0phNCtuT1JweXRybzI0QWZteW4xNTVORGRjY0xGTjlYeUlKNkFiOTZ6MHl2dmZEMkF5WGV6cEdua1FydTd5akVzSWc0M0tBTG1BM1VnczZ2dk1PbmtSUWwzK0JjbTpoekpOTU9MaUdRN3U2S0lJOTdDWGtnPT0KByf
+Kecoh! Hantu Raya Tok Chai
+https://fvs.io/redirector?token=K2FCVDVwanNURjk2QWxUMlNVMFdmbTBIeUk0MHlISXR6NUJDdVBYWTNQNG02bUUwbmVKRDBRSVlWTVRueTdQNHBFM0phNCtuT1JweXRybzI0QWZteW4xNTVORGRjY0xGTjlYeUlKNkFiOTZ6MHl2dmZEMkF5WGV6cEdua1FydTd5akVzSWc0M0tBTG1BM1VnczZ2dk1PbmtSUWwzK0JjbTpoekpOTU9MaUdRN3U2S0lJOTdDWGtnPT0KByf
 
 DURIANTV l ASTRO
 
