@@ -85,11 +85,20 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
-EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPO.1
-https://lnk.ec/shareext@spotv
+KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="MNCSports.id" tvg-name=" MNC Sport" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="Sports",MNC Sports 1 HD
+https://liveanevia.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@Relax",SPO.2
-https://lnk.ec/shareext@spotv2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="MNCSports.id" tvg-name=" MNC Sport" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="Sports",MNC Sports 2 HD
+https://liveanevia.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="MNCSports.id" tvg-name=" MNC Sport" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_102.jpg" group-title="Sports",MNC Sports 3 HD
+https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 
 
 
