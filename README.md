@@ -10,7 +10,7 @@
 
 
 
-----------------------------------------ASTRO CHANNEL------------------------------------------------------------------
+----------------------------------------DURIANT l ASTRO CHANNEL------------------------------------------------------------------
 
 
 
@@ -33,7 +33,7 @@ https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9CiUQ6CqKIpSoYc
 https://linears-playback.astro.com.my/vsgN/41iHxFdzNWPpdT5cA7TKBm9GxnWJ_pwb40Q2dhkA1fNLM=WMz2/dash-wv/jitp-linearwm/2700/default_ott.mpd
 
 
-_---_-----------------------------SPORTS---------------------
+_---_-----------------------------DurianTV l SPORTS---------------------
 
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
@@ -90,7 +90,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
 
 
 
---------------------------------TV3 CHANNEL----------------------------------------------------
+--------------------------------DURIANTV l CHANNEL----------------------------------------------------
 
 
 
@@ -159,7 +159,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_ott.mpd
 
 
 
----------------------------------MALAYSIA------------------------------------------------------------------
+---------------------------------DURIANTV l MALAYSIA------------------------------------------------------------------
 
 
 
