@@ -8,11 +8,10 @@
 
 DurianTV l SPORTS
 
-
-#EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
 https://linears-playback.astro.com.my/vsgN/41EYOIqwRu3ux82k6lgqo-_RU7vmOPV7C9RUQmMMuJgnM=8S2F/dash-wv/jitp-linearwm/601/default_ott.mpd
+
 
 
 
