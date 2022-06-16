@@ -96,6 +96,9 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:0 tvg-id="ext" group-title="Sports",SuKan TV FHD
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
 
+https://lnk.ec/shareext@arena_1.ts
+
+https://lnk.ec/shareext@arena_2.ts
 
 URIANTV l CHANNEL
 
