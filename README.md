@@ -115,9 +115,6 @@ http://iptv12k.com:35461/80201051217/424567/969
 #EXTINF:-1 tvg-id="815" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS",ASTRO SUPERSPORT 5 (Backup)
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
-EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-title="SPORTS",SUKAN RTM
-https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-
 DURIAN TV l KNOWLEDGE
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
