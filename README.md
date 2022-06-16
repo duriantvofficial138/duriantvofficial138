@@ -156,7 +156,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/600/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2103/default_ott.mpd
 
 
-KIDS
+DURIAN TV l KIDS
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
