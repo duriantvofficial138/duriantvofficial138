@@ -4,7 +4,10 @@
 
 #EXTM3U x-tvg-url="https://bit.ly/aqfadtvepg"
 
+MOVIE MELAYU
 
+https://m.media-amazon.com/images/M/MV5BNjhlODllYzItNzJkYy00YzM1LWFlMzEtYWZlYjhiNjUxMTYyXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_FMjpg_UX1000_.jpg
+https://stream.xpeer.xyz/playlist1/kampong-pisang-berbuah-dua-kali-2022/master_480.m3u8
 ----------------------------------------ASTRO CHANNEL------------------------------------------------------------------
 
 
