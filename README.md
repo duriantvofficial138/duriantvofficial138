@@ -43,13 +43,13 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_ott.mpd
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="SPORTS" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/601
-https://Astro.kpsboyserver.com/AstroSP1.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
 
 
 #EXTINF:-1 tvg-id="AstroSupersport2" group-title="SPORTS" ch-number="812" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/10_144.png",812 Astro SuperSport 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2104
-https://Astro.kpsboyserver.com/AstroSP2.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2104/default_primary.mpd
 
 
 
@@ -57,7 +57,7 @@ https://Astro.kpsboyserver.com/AstroSP2.mpd
 #EXTINF:-1 tvg-id="AstroSupersport3" group-title="SPORTS" ch-number="813" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/69_144.png",813 Astro SuperSport 3 HD 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2701
-https://Astro.kpsboyserver.com/AstroSP3.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2701/default_primary.mpd
 
 
 
@@ -66,14 +66,14 @@ https://Astro.kpsboyserver.com/AstroSP3.mpd
 #EXTINF:-1 tvg-id="AstroSupersport4" group-title="SPORTS" ch-number="814" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/163_144.png",814 Astro SuperSport 4 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2506
-https://Astro.kpsboyserver.com/AstroSP4.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_primary.mpd
 
 
 #EXTINF: -1 tvg-id="AstroSupersport5" group-title="SPORTS" ch-number="815" tvg-logo="http://aqfadtv.astradamy.com/logos/AstroSuperSport5.png",815 Astro SuperSport 5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5059
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_primary.mpd
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5059/default_ott.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
