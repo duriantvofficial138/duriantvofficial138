@@ -6,8 +6,3 @@
 
 #EXTM3U
 
-
-UNIFI SPORTS 1
-
-https://www.google.com/search?q=unifi+sport+1+logo&tbm=isch&ved=2ahUKEwiMntGQj9z4AhUV_TgGHSRkD0oQ2-cCegQIABAC&oq=unifi+sport+1+logo&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzoECCMQJzoECAAQEzoECAAQGFC1CViiPmCbQWgBcAB4AIAB0gGIAfELkgEFMC45LjKYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=tTrBYszvH5X64-EPpMi90AQ&bih=809&biw=424&client=ms-android-oppo-rev1&prmd=isvn#imgrc=PI-ZZa35kqybvM
-http://1.9.62.176/PLTV/88888888/224/3221227877/3221227877.mpd
