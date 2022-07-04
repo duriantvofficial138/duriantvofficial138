@@ -740,7 +740,7 @@ div.WordSection1
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5f437ad29765f253325a84298d9f0d10&key=d8e36aeb7416a20a124c2d132c8f74f9
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 group-title="ASTRO" tvg-id="104" ch-number="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png",ASTRO RIA HD
-https://tv.kpsvpn.com/astroghia.mpd
+https://tvmalaysia.xyz/hls/ria.m3u8
 
 
 
